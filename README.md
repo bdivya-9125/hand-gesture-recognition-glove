@@ -55,14 +55,14 @@ The 8051 compares flex sensor thresholds:
 ## 🛠 How to Run the Project
 
 ### **1️⃣ Upload Arduino Code**
-Path: `Codes/gesture_glove_arduino.ino`
+Path: `Codes/flex_sensor_reader.ino`
 
 Arduino reads flex sensors and sends CSV:
 1020,980,1012,1005,990
 
 
 ### **2️⃣ Flash 8051 Code**
-Path: `Codes/hand_gesture_recognition_glove.c`
+Path: `Codes/8051_gesture_recognition.c`
 
 This code:
 - Receives UART data  
@@ -87,11 +87,12 @@ Use Terminal/Serial Monitor or LCD module.
 
 ## 📘 Documentation
 
-📄 **Project Report:**  
-[Open Report](report/MPMC HAND GESTURE RECOGNITION GLOVE.pdf)
+## 📘 Full Project Report
+📄 [View Report](report/MPMC%20HAND%20GESTURE%20RECOGNITION%20GLOVE.pdf)
 
-🎤 **Presentation PPT:**  
-[Open PPT](presentation/MPMC_Project.pptx)
+## 🎤 Presentation
+📽️ [View Presentation](presentation/MPMC%20Project%20.pptx)
+
 
 ---
 
