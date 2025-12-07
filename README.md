@@ -18,9 +18,6 @@ The system reads finger bending values through Arduino, sends them as CSV over B
 
 ---
 
-
----
-
 ## 🧠 System Workflow
 1. **Flex Sensors** detect the bending of each finger.  
 2. **Arduino Uno** reads analog values (A0–A4) and sends them in CSV format.  
@@ -93,6 +90,12 @@ Use Terminal/Serial Monitor or LCD module.
 ## 🎤 Presentation
 📽️ [View Presentation](presentation/MPMC%20Project%20.pptx)
 
+# Hand-Recognition System
+
+## 🎥 Project Demo  
+[![Watch the video](https://img.youtube.com/vi/IW1-J7IxoMY/0.jpg)](https://youtu.be/IW1-J7IxoMY)
+
+A full walk-through of the project is available in the video above — you can see the system being used live, along with explanations of the algorithm and architecture.
 
 ---
 
