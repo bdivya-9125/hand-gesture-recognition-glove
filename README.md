@@ -88,7 +88,7 @@ Use Terminal/Serial Monitor or LCD module.
 ## 📘 Documentation
 
 📄 **Project Report:**  
-[Open Report](report/hand_gesture_project_report.pdf)
+[Open Report](report/MPMC HAND GESTURE RECOGNITION GLOVE.pdf)
 
 🎤 **Presentation PPT:**  
 [Open PPT](presentation/MPMC_Project.pptx)
